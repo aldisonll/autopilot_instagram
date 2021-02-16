@@ -3,8 +3,6 @@
 
 [![N|Solid](https://raw.githubusercontent.com/aldisonll/autopilot_instagram/main/logo.ico)](https://github.com/aldisonll/autopilot_instagram)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 
 ## Installation
 
